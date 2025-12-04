@@ -2,12 +2,12 @@
 Project description 
 This is the simple note app
 The required about this exercise:
-create a simple note app include these feutures:
-- create new note
-- view all notes
-- edit the created note
-- delete note with confirmation
-- timestamp tracking
+Create a simple note app include these features:
+- Create new note
+- View all notes
+- Edit the created note
+- Delete note with confirmation
+- Timestamp tracking
 ## ii. Screenshots of my app
 This is a main screen of my app
 
