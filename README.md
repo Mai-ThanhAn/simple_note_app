@@ -10,6 +10,7 @@ create a simple note app include these feutures:
 - timestamp tracking
 ## ii. Screenshots of my app
 This is a main screen of my app
+
 ![alt text](screenshots/image-2.png)
 ## iii. How to run the project
 You can run a project with debug mode at root folder
