@@ -8,6 +8,9 @@ Create a simple note app include these features:
 - Edit the created note
 - Delete note with confirmation
 - Timestamp tracking
+## i. Video demo
+This is the video demo about simple note app [On Youtube, click here to follow link]
+[![Watch the video](https://img.youtube.com/vi/P4UlbcT5nig/0.jpg)](https://www.youtube.com/watch?v=P4UlbcT5nig)
 ## ii. Screenshots of my app
 This is a main screen of my app
 
